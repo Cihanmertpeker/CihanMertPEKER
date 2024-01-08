@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yagmurrttk/" target="blank"><img align="center"
+  <a href="[https://www.linkedin.com/in/yagmurrttk/](https://www.linkedin.com/in/cihan-mert-peker-b57882118/)" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="yagmur" height="30" width="40" /></a>
+      alt="cihan" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -51,7 +51,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yagmurttk&&row=1&theme=radical" alt="YagmurTetik" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yagmurttk&&row=1&theme=radical" alt="CihanMertPEKER" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -77,7 +77,7 @@
 
 ### 📊 Contribution Stats
 
-<img alt="Yağmur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yagmurttk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Cihan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yagmurttk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <br>
 

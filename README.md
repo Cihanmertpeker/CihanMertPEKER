@@ -13,7 +13,7 @@
 
 - ⚡ Fun Fact : Code and Music🎵 are the reasons to live.
 
-- [![](https://visitcount.itsvg.in/api?id=Cihanmertpeker&icon=0&color=1)](https://visitcount.itsvg.in)
+- [![(https://visitcount.itsvg.in/api?id=Cihanmertpeker&icon=0&color=1)](https://visitcount.itsvg.in)]
  
 <br>
 
